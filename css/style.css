@@ -104,6 +104,10 @@ a {
   display: none;
 }
 
+#skills > li{
+  padding-bottom: 1%;
+}
+
 .orange {
   background-color: #f5ae23;
 }
